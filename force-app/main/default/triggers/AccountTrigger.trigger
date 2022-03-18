@@ -8,4 +8,5 @@
 trigger AccountTrigger on Account (before insert, after insert,before update, after update) {
     system.debug('Batch Mode');
     system.debug('Future call');
+    system.debug('development a push edildi');
 }
