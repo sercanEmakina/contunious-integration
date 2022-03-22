@@ -9,4 +9,5 @@ trigger AccountTrigger on Account (before insert, after insert,before update, af
     system.debug('22 mart test');
     system.debug('test 1 için commit');
     system.debug('test 1.2 için commit');
+    system.debug('test 1.3 için commit');
 }
