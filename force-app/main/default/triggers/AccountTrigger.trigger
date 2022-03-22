@@ -9,4 +9,10 @@ trigger AccountTrigger on Account (before insert, after insert,before update, af
     system.debug('22 mart test');
     system.debug('2342342');
     system.debug('1111112222');
+    system.debug('test 1 için commit');
+    system.debug('test 1.2 için commit');
+    system.debug('test 1.3 için committt');
+    system.debug('2342342');
+
+
 }
