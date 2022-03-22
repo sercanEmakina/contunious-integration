@@ -7,4 +7,5 @@
 **/
 trigger ContactTrigger on Contact (before insert, after insert,before update, after update) {
     system.debug('asdasdasdads');
+    system.debug('fdfsdfs');
 }
