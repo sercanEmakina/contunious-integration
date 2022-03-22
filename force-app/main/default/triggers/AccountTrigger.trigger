@@ -8,6 +8,5 @@
 trigger AccountTrigger on Account (before insert, after insert,before update, after update) {
     system.debug('22 mart test');
     system.debug('2342342');
-
-
+    system.debug('1111112222');
 }
