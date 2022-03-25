@@ -9,6 +9,7 @@
 
 # Ignore Salesforce DX config files
 .sfdx
+.vim-force.com
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
