@@ -11,4 +11,5 @@ trigger AccountTrigger on Account (before insert, after insert,before update, af
     system.debug('1');
 
     system.debug('developer 1 first commit');
+    system.debug('developer 1 second commit');
 }
